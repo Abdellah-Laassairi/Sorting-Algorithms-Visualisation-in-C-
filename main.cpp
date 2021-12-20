@@ -20,6 +20,7 @@ int main() {
   table=stockdata(nom);
   //writedata(table);
   VecAllumette test5=generationAleatoire(1000);
+  
   //1iere Algorithme
   //VecAllumette test2=tri_insertion(40,  table);
 
